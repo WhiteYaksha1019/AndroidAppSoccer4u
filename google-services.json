@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125637384215",
+    "project_id": "soccer4u-cb59d",
+    "storage_bucket": "soccer4u-cb59d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125637384215:android:21f8b98da5da6e784da452",
+        "android_client_info": {
+          "package_name": "com.example.soccer4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125637384215-qb32jro87lqqavlj5jrc80pq3snfg5ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvFZn4C_oaleNHCt5hVWDnVaC-PIkfjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125637384215-qb32jro87lqqavlj5jrc80pq3snfg5ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
